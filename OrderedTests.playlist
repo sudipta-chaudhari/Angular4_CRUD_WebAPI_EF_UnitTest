@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="Angular4WebApi.Tests.Angular4WebApiTests.Get_All_Products" /><Add Test="Angular4WebApi.Tests.Angular4WebApiTests.Add_Product" /><Add Test="Angular4WebApi.Tests.Angular4WebApiTests.Update_Product" /><Add Test="Angular4WebApi.Tests.Angular4WebApiTests.Delete_Product" /></Playlist>
