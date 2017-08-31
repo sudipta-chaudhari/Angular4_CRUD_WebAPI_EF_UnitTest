@@ -14,6 +14,11 @@ namespace Angular4WebApi.Controllers
         #endregion
 
         #region C'tor
+	public ProductController()
+        {
+            _context = new InventoryEntities();
+            _repository = new ProductRepository();
+        }
         public ProductController(IProductRepository repository)
         {
             _context = new InventoryEntities();
