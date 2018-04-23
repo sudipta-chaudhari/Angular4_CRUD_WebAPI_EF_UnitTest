@@ -1,5 +1,5 @@
 # Angular4_CRUD_WebAPI_EF_UnitTest
 
-Complete details about the source code can be found at : 
+Angular 4 CRUD application using ASP.NET Web API
 
-https://sudiptach.wordpress.com/2017/08/30/csharp-unit-testing-with-moq/
+Read detailed article/blog at : https://sudiptach.wordpress.com/2017/08/30/csharp-unit-testing-with-moq/
